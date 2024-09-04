@@ -1,0 +1,115 @@
+[
+  {
+    "boardId": 1,
+    "boardTitle": "board1",
+    "columns": [
+      {
+        "columnId": 1,
+        "taskTitle": "TODO",
+        "tasks": [
+          {
+            "taskId": 1,
+            "cardTitle": "card1",
+            "description": "card1 description"
+          },
+          {
+            "taskId": 2,
+            "cardTitle": "card2",
+            "description": "card2 description"
+          }
+        ]
+      },
+      {
+        "columnId": 2,
+        "taskTitle": "IN PROGRESS",
+        "tasks": [
+          {
+            "taskId": 3,
+            "cardTitle": "card3",
+            "description": "card3 description"
+          },
+          {
+            "taskId": 4,
+            "cardTitle": "card4",
+            "description": "card4 description"
+          }
+        ]
+      },
+      {
+        "columnId": 5,
+        "taskTitle": "DONE",
+        "tasks": [
+          {
+            "taskId": 6,
+            "cardTitle": "card6",
+            "description": "card6 description"
+          },
+          {
+            "taskId": 7,
+            "cardTitle": "card7",
+            "description": "card7 description"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "boardId": 2,
+    "boardTitle": "board2",
+    "columns": [
+      {
+        "columnId": 1,
+        "taskTitle": "TODO",
+        "tasks": [
+          {
+            "taskId": 1,
+            "cardTitle": "card11",
+            "description": "card1 description"
+          },
+          {
+            "taskId": 2,
+            "cardTitle": "card22",
+            "description": "card2 description"
+          }
+        ]
+      },
+      {
+        "columnId": 2,
+        "taskTitle": "IN PROGRESS",
+        "tasks": [
+          {
+            "taskId": 3,
+            "cardTitle": "card33",
+            "description": "card3 description"
+          },
+          {
+            "taskId": 4,
+            "cardTitle": "card44",
+            "description": "card4 description"
+          }
+        ]
+      },
+      {
+        "columnId": 5,
+        "taskTitle": "DONE",
+        "tasks": [
+          {
+            "taskId": 6,
+            "cardTitle": "card66",
+            "description": "card6 description"
+          },
+          {
+            "taskId": 7,
+            "cardTitle": "card77",
+            "description": "card7 description"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "boardId": 3,
+    "boardTitle": "board3",
+    "columns": []
+  }
+]
